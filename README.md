@@ -1,1 +1,1 @@
-# Kit-Didactico-Electronica-Industrial
+# Kit Didáctico Electrónica Industrial
