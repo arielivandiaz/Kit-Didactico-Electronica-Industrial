@@ -14,7 +14,7 @@
 1- Conectar la fuente de alimentación (12 - 24V) de la parte de Electrónica Industrial
 2- Conectar el USB a la computadora
 3- Ver el  numero de puerto COM en el que se conecto el dispositivo
-4- Abrir el [COMPlotter](https://github.com/arielivandiaz/COMPlotter)  y teclear el numero de puerto y Enter.
+4- Abrir el [COMPlotter](http://www.laguna.com.ar/COMPlotter/) y teclear el numero de puerto y Enter.
 
 
 ### Solución a Problemas
